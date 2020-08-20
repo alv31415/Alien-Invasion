@@ -6,6 +6,7 @@ This project was developed following Eric Mathees' Python Crash Course, Second E
 
 * [Additional Features](#additional-features)
 * [To Do List](#to-do-list)
+* [Pictures](#pictures)
 
 ## Additional Features
 
