@@ -21,6 +21,7 @@ I introduced some of my own features that I believe improved the game experience
 * included instructions button
   * explains the basic functioning of the game
 * added a title screen in the menu
+* added a "level up screen" 
 * additional functionality for quickly testing new features
   * "god-mode" increases the speed of the ship and bullets
   * "x-mode" increases the fall speed of the ship
@@ -32,3 +33,33 @@ I introduced some of my own features that I believe improved the game experience
 - [ ] introduce power ups
 
 ## Pictures
+
+The main menu:
+
+<p align = "center">
+  <img src = "https://github.com/alv31415/Alien-Invasion/blob/master/Alien%20Invasion%20Pictures/Screenshot%202020-08-20%20at%2011.07.22.png">
+</p>
+
+The instructions pane:
+
+<p align = "center">
+  <img src = "https://github.com/alv31415/Alien-Invasion/blob/master/Alien%20Invasion%20Pictures/Screenshot%202020-08-20%20at%2011.07.36.png">
+</p>
+
+The high-score pane:
+
+<p align = "center">
+  <img src = "https://github.com/alv31415/Alien-Invasion/blob/master/Alien%20Invasion%20Pictures/Screenshot%202020-08-20%20at%2011.07.52.png">
+</p>
+
+The level up screen:
+
+<p align = "center">
+  <img src = "https://github.com/alv31415/Alien-Invasion/blob/master/Alien%20Invasion%20Pictures/Screenshot%202020-08-20%20at%2011.08.09.png">
+</p>
+
+Game play:
+
+<p align = "center">
+  <img src = "https://github.com/alv31415/Alien-Invasion/blob/master/Alien%20Invasion%20Pictures/Screenshot%202020-08-20%20at%2011.08.29.png">
+</p>
